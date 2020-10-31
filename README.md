@@ -1,4 +1,4 @@
-# schema-matching
+# Schema Matching
 Data Integration - Schema Matching &amp; Mapping
 
 Tasks
